@@ -31,16 +31,12 @@ User Authentication: When the program starts, users are prompted to log in with 
 If the username exists and the password matches the stored hash, the user gains access to the ATM features.
 
 ATM Operations: Once authenticated, users can perform the following actions:
+
 Check Balance: View the current balance of the account.
 Deposit Money: Add money to the account. Any positive amount can be deposited.
 Withdraw Money: Withdraw money from the account, as long as the balance is sufficient.
 The user can perform multiple transactions until they choose to exit.
 
-## Potential Future Improvements
-Multi-user Support: Currently, users are hardcoded. In the future, this project could be expanded to store users and their credentials in a database or file system.
-Encryption: Add more advanced encryption techniques to further protect sensitive data.
-Transaction Logging: Implement a system to log each transaction (deposits, withdrawals) for audit purposes.
-Account Management: Include functionality for users to create new accounts or reset passwords.
 
 ## About Me
 I am currently pursuing a BSc (Hons) in Cybersecurity at the Open University. This project is part of my effort to build a strong foundation in secure coding and Python programming. I am passionate about learning and applying cybersecurity principles in real-world projects to improve my skills and prepare for a career in the field.
