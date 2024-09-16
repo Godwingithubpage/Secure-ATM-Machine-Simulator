@@ -1,7 +1,7 @@
 import hashlib
 import getpass
 
-# User's data (for simplicity, we store the hashed password here)
+# User's data (for simplicity, the hashed password is stored here)
 users = {
     # Store the hashed password
     "Uche G": hashlib.sha256("password123".encode()).hexdigest(),
