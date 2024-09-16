@@ -44,5 +44,5 @@ Encryption: Add more advanced encryption techniques to further protect sensitive
 Transaction Logging: Implement a system to log each transaction (deposits, withdrawals) for audit purposes.
 Account Management: Include functionality for users to create new accounts or reset passwords.
 
-About Me
+## About Me
 I am currently pursuing a BSc (Hons) in Cybersecurity at the Open University. This project is part of my effort to build a strong foundation in secure coding and Python programming. I am passionate about learning and applying cybersecurity principles in real-world projects to improve my skills and prepare for a career in the field.
